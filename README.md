@@ -4,9 +4,9 @@ Este repositório contém o projeto de Prova Prática de Desenvolvimento Web .NE
 O projeto atende aos requisitos de CRUD obrigatórios, implementação de login e regras de negócio específicas do tema.
 
 👥 Integrantes
-Integrante 1: [Pedro henrique menezes mariano silva] (Referência do Tema M-P)
+Integrante 1: [Pedro henrique menezes mariano silva] RM97432 (Referência do Tema M-P)
 
-Integrante 2: [Augusto]
+Integrante 2: [Augusto Milreu] RM98245
 
 🔧 Tema e Entidades
 Tema: Oficina Mecânica (Grupo M-P)
